@@ -12,6 +12,10 @@
 	<body>
 		<h1>Hello Git!</h1>
 		<P>폐기의 단축 키 (ctrl+shift+r) => 커밋하기 전(Unstaging)에서 기존 내용을 취소시키는 것</P>
+		<P>커밋 후 처리 방법</P>
+		<ul>
+			<li>1. 브랜치 초기화 : 특정 위치로 되돌림(Hard:폐기 / Mixed:Unstaging / Soft:Staging)</li>
+		</ul>
 	</body>
 	<script>
 	</script>
